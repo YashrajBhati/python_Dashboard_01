@@ -1,0 +1,35 @@
+id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
+2,Male,33,Visakhapatnam,Student,5,0,8.97,2,0,5-6 hours,Healthy,B.Pharm,Yes,3,1,No,1
+8,Female,24,Bangalore,Student,2,0,5.9,5,0,5-6 hours,Moderate,BSc,No,3,2,Yes,0
+26,Male,31,Srinagar,Student,3,0,7.03,5,0,Less than 5 hours,Healthy,BA,No,9,1,Yes,0
+30,Female,28,Varanasi,Student,3,0,5.59,2,0,7-8 hours,Moderate,BCA,Yes,4,5,Yes,1
+32,Female,25,Jaipur,Student,4,0,8.13,3,0,5-6 hours,Moderate,M.Tech,Yes,1,1,No,0
+33,Male,29,Pune,Student,2,0,5.7,3,0,Less than 5 hours,Healthy,PhD,No,4,1,No,0
+52,Male,30,Thane,Student,3,0,9.54,4,0,7-8 hours,Healthy,BSc,No,1,2,No,0
+56,Female,30,Chennai,Student,2,0,8.04,4,0,Less than 5 hours,Unhealthy,Class 12,No,0,1,Yes,0
+59,Male,28,Nagpur,Student,3,0,9.79,1,0,7-8 hours,Moderate,B.Ed,Yes,12,3,No,1
+62,Male,31,Nashik,Student,2,0,8.38,3,0,Less than 5 hours,Moderate,LLB,Yes,2,5,No,1
+83,Male,24,Nagpur,Student,3,0,6.1,3,0,5-6 hours,Moderate,Class 12,Yes,11,1,Yes,1
+91,Male,33,Vadodara,Student,3,0,7.03,4,0,Less than 5 hours,Healthy,BE,Yes,10,2,Yes,0
+94,Male,27,Kalyan,Student,5,0,7.04,1,0,Less than 5 hours,Moderate,M.Tech,No,10,1,Yes,1
+100,Female,19,Rajkot,Student,2,0,8.52,4,0,Less than 5 hours,Unhealthy,Class 12,No,6,2,Yes,0
+103,Female,19,Kalyan,Student,5,0,5.64,5,0,Less than 5 hours,Moderate,Class 12,Yes,4,5,Yes,1
+106,Male,29,Srinagar,Student,3,0,8.58,3,0,More than 8 hours,Moderate,M.Tech,Yes,10,2,Yes,1
+120,Male,25,Nashik,Student,5,0,6.51,2,0,Less than 5 hours,Unhealthy,M.Ed,Yes,2,5,Yes,1
+132,Female,20,Ahmedabad,Student,5,0,7.25,3,0,5-6 hours,Healthy,Class 12,Yes,10,3,No,1
+139,Male,19,Chennai,Student,2,0,7.83,2,0,7-8 hours,Unhealthy,Class 12,No,6,3,No,0
+145,Male,25,Kalyan,Student,3,0,9.93,3,0,5-6 hours,Moderate,B.Ed,No,8,3,Yes,1
+161,Male,29,Kolkata,Student,3,0,8.74,4,0,5-6 hours,Moderate,B.Ed,Yes,1,1,No,0
+162,Male,29,Kolkata,Student,3,0,6.73,3,0,7-8 hours,Moderate,M.Tech,No,0,1,No,0
+166,Female,25,Ahmedabad,Student,3,0,5.57,3,0,More than 8 hours,Unhealthy,MSc,Yes,10,5,No,1
+172,Male,23,Thane,Student,1,0,8.59,4,0,7-8 hours,Healthy,BHM,No,11,3,No,0
+173,Male,18,Bangalore,Student,4,0,7.1,3,0,More than 8 hours,Unhealthy,Class 12,Yes,11,5,Yes,1
+176,Female,20,Mumbai,Student,5,0,8.58,5,0,7-8 hours,Moderate,Class 12,No,2,2,Yes,1
+186,Male,31,Ahmedabad,Student,2,0,6.08,5,0,7-8 hours,Moderate,LLB,Yes,3,3,Yes,1
+193,Male,25,Lucknow,Student,3,0,7.25,3,0,More than 8 hours,Unhealthy,M.Ed,Yes,10,5,No,1
+208,Male,33,Indore,Student,5,0,5.74,2,0,Less than 5 hours,Moderate,M.Pharm,No,8,3,Yes,0
+214,Male,28,Kalyan,Student,3,0,9.86,3,0,7-8 hours,Unhealthy,M.Pharm,Yes,11,2,No,1
+222,Male,18,Surat,Student,4,0,6.7,5,0,Less than 5 hours,Moderate,Class 12,Yes,5,4,Yes,1
+232,Male,18,Visakhapatnam,Student,2,0,6.21,3,0,5-6 hours,Unhealthy,Class 12,Yes,4,2,No,1
+239,Male,21,Jaipur,Student,1,0,7.25,1,0,Less than 5 hours,Healthy,MCA,Yes,7,2,No,0
+240,Female,31,Kalyan,Student,1,0,5.87,3,0,7-8 hours,Healthy,PhD,No,8,4,Yes,0
